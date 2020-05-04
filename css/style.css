@@ -192,6 +192,9 @@ h3::after {
 
   margin-right: 30px;
 }
+.card-2:last-child {
+  margin-right: 0;
+}
 .card-2:hover .overlay-2 {
   opacity: 1;
   visibility: visible;
